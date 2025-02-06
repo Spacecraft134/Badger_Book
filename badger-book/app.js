@@ -112,7 +112,7 @@ fetch("https://cs571api.cs.wisc.edu/rest/s25/hw2/students", {
   .then((response) => response.json())
   .then((data) => {
     studentData = data;
-    buildStudents(data); // Initial population of students
+    buildStudents(data);
   })
   .catch((err) => {
     console.log(err);
