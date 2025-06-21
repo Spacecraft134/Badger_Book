@@ -20,4 +20,11 @@ Users can:
 - HTML5
 - CSS3 + BootStrap
 - JavaScript (ES6)
+
+
+## Author
+
+**Rohith Ravikumar**  
+University of Wisconsin–Madison  
+GitHub: [https://github.com/Spacecraft134](https://github.com/Spacecraft134)
   
